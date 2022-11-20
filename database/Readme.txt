@@ -1,4 +1,4 @@
 Admin Panel
 
-Username : admin@gmail.com
-password : sujith123
+Username : devmasca@gmail.com
+password : masca123
